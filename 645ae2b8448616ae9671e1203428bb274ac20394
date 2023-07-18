@@ -1,1 +1,3 @@
 image: ghcr.io/AliRamberg/demo-app:977269016e87fd4a792a65cbf434277b7f760c9c
+
+env: stage
