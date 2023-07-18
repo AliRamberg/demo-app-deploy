@@ -5,5 +5,5 @@ resources:
 - ../../base
 
 images:
-- name: ghcr.io/AliRamberg/demo-app
+- name: ghcr.io/aliramberg/demo-app
   newTag: 9ae8b66270e9fe205aa0af762136be03521a136c
